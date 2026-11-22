@@ -222,7 +222,7 @@ const saurabh: FrontendDeveloper = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/saurabh%20shrivastav">
+<a href="www.linkedin.com/in/saurabh-shrivastav-004050296">
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
