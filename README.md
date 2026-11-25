@@ -1,3 +1,4 @@
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--              SAURABH SHRIVASTAV  ·  GitHub Profile README         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -69,23 +70,36 @@ const saurabh: FrontendDeveloper = {
   location  : "INDIA",
   role      : "Frontend Developer",
 
-  currentlyWorkingOn : "Ai-Framework",
+  currentlyWorkingOn : "AI-Framework",
+
   currentlyLearning  : [
     "AI Based Automation Framework",
     "Data Analysis",
+    "AI / LLM Integration",
   ],
+
+  aiStack : [
+    "OpenAI GPT-4o-mini",
+    "Google Gemini 2.5 Flash",
+    "Prompt Engineering",
+    "Model Context Protocol (MCP)",
+    "RAG (Retrieval-Augmented Generation)",
+    "AI-Powered Test Automation",
+  ],
+
   lookingToCollaborate : "Ai-Framework",
 
   askMeAbout : [
     "Full Stack Development",
     "AI / ML",
+    "AI Based Automation",
     "Power BI",
     "SQL",
   ],
 
-  contact   : "saurabhshrivastavsms@gmail.com",
+  contact : "saurabhshrivastavsms@gmail.com",
 
-  funFact   : "Vibe Code also requires Knowledge 💡",
+  funFact : "Vibe Code also requires Knowledge 💡",
 };
 ```
 
@@ -138,15 +152,35 @@ const saurabh: FrontendDeveloper = {
 <br/>
 
 <details open>
-<summary><b>&nbsp;🤖 &nbsp;AI / ML &amp; Data</b></summary><br/>
+<summary><b>&nbsp;🤖 &nbsp;AI / ML, LLMs &amp; Data</b></summary><br/>
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,pandas&theme=dark&perline=5" />
 &nbsp;
 <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<br/><br/>
+
+<!-- AI STACK -->
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/Ai--Framework-ff6b35?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Prompt%20Engineering-7c3aed?style=for-the-badge&logo=openai&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-0e75b6?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-ff6b35?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20Test%20Automation-238636?style=for-the-badge&logo=playwright&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI--Framework-ff6b35?style=for-the-badge&logoColor=white" />
 
 </details>
 
@@ -263,6 +297,36 @@ const saurabh: FrontendDeveloper = {
 </div>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!--                   CONTRIBUTION SNAKE                       -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+<br/>
+
+## 🐍 My GitHub Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/saurabhshrivastav-ui/saurabhshrivastav-ui/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/saurabhshrivastav-ui/saurabhshrivastav-ui/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/saurabhshrivastav-ui/saurabhshrivastav-ui/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--                    WAVE FOOTER (MIRRORED)                  -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=a5c8ff&fontAlignY=68&animation=twinkling&reversal=false" />
