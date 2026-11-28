@@ -1,4 +1,3 @@
-
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--              SAURABH SHRIVASTAV  ·  GitHub Profile README         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -9,14 +8,14 @@
 <!--                     WAVE HERO HEADER                        -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Saurabh%20Shrivastav&fontSize=60&fontColor=fff&fontAlignY=38&desc=⚡%20Frontend%20Developer%20·%20Full%20Stack%20·%20AI%2FML%20·%20Data%20Analysis&descSize=18&descColor=a5c8ff&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Saurabh%20Shrivastav&fontSize=60&fontColor=fff&fontAlignY=38&desc=⚡%20Data%20Analyst%20·%20AI%2FML%20Engineer%20·%20Ex-Frontend%20Developer&descSize=18&descColor=a5c8ff&descAlignY=58&animation=fadeIn" />
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--                    WORKING TYPING EFFECT                    -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <a href="https://github.com/saurabhshrivastav-ui">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=680&height=50&lines=Passionate+Frontend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Full+Stack+Development+%F0%9F%8C%90;AI+%2F+ML+%7C+AI+Based+Automation+Frameworks+%F0%9F%A4%96;Data+Analysis+%7C+Power+BI+%7C+SQL+%F0%9F%93%8A;Vibe+Code+Also+Requires+Knowledge+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=680&height=50&lines=Data+Analyst+%26+AI+%2F+ML+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Data+Analysis+%7C+Power+BI+%7C+SQL+%F0%9F%93%8A;AI+%2F+ML+%7C+LLMs+%7C+RAG+%7C+MCP+%F0%9F%A4%96;AI+Based+Automation+Frameworks+%E2%9A%99%EF%B8%8F;Vibe+Code+Also+Requires+Knowledge+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -29,7 +28,7 @@
   <img src="https://komarev.com/ghpvc/?username=saurabhshrivastav-ui&label=Profile+Views&color=0e75b6&style=for-the-badge&labelColor=161b22" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/saurabh%20shrivastav">
+<a href="https://www.linkedin.com/in/saurabh-shrivastav-004050296">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" />
 </a>
 &nbsp;
@@ -47,7 +46,7 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/📍 Location-INDIA 🇮🇳-0e75b6?style=flat-square&labelColor=161b22&color=0e75b6" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/💡 Focus-AI + Full Stack-7c3aed?style=flat-square&labelColor=161b22&color=7c3aed" />
+<img src="https://img.shields.io/badge/💡 Focus-Data Analysis + AI%2FML-7c3aed?style=flat-square&labelColor=161b22&color=7c3aed" />
 
 </div>
 
@@ -65,16 +64,21 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36" valign="middle" /> &nbsp;About Me
 
 ```typescript
-const saurabh: FrontendDeveloper = {
+const saurabh: DataAnalystAndAIMLEngineer = {
   name      : "Saurabh Shrivastav",
   location  : "INDIA",
-  role      : "Frontend Developer",
+  role      : "Data Analyst & AI/ML Engineer",
+
+  previousWork : [
+    "Frontend Developer",
+    "Full Stack Development",
+  ],
 
   currentlyWorkingOn : "AI-Framework",
 
   currentlyLearning  : [
     "AI Based Automation Framework",
-    "Data Analysis",
+    "Advanced Machine Learning",
     "AI / LLM Integration",
   ],
 
@@ -90,11 +94,12 @@ const saurabh: FrontendDeveloper = {
   lookingToCollaborate : "Ai-Framework",
 
   askMeAbout : [
-    "Full Stack Development",
+    "Data Analysis",
     "AI / ML",
     "AI Based Automation",
     "Power BI",
     "SQL",
+    "Frontend (my earlier work)",
   ],
 
   contact : "saurabhshrivastavsms@gmail.com",
@@ -117,39 +122,6 @@ const saurabh: FrontendDeveloper = {
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" valign="middle" /> &nbsp;Tech Arsenal
 
 <div>
-
-<details open>
-<summary><b>&nbsp;🌐 &nbsp;Frontend &amp; UI</b></summary><br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,vue,tailwind,bootstrap,babel,figma&theme=dark&perline=10" />
-&nbsp;
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/CanvasJS-1E88E5?style=for-the-badge&logoColor=white" />
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>&nbsp;📱 &nbsp;Mobile Development</b></summary><br/>
-
-<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,kotlin&theme=dark&perline=5" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>&nbsp;⚙️ &nbsp;Backend, Languages &amp; APIs</b></summary><br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,c,cpp,cs,dotnet&theme=dark&perline=10" />
-
-</details>
-
-<br/>
 
 <details open>
 <summary><b>&nbsp;🤖 &nbsp;AI / ML, LLMs &amp; Data</b></summary><br/>
@@ -200,9 +172,42 @@ const saurabh: FrontendDeveloper = {
 <br/>
 
 <details open>
+<summary><b>&nbsp;⚙️ &nbsp;Backend, Languages &amp; APIs</b></summary><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,c,cpp,cs,dotnet&theme=dark&perline=10" />
+
+</details>
+
+<br/>
+
+<details open>
 <summary><b>&nbsp;🐳 &nbsp;DevOps, Tools &amp; Design</b></summary><br/>
 
 <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,jenkins,postman,arduino,ai,ps&theme=dark&perline=10" />
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>&nbsp;🌐 &nbsp;Previous Work · Frontend &amp; UI</b></summary><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,vue,tailwind,bootstrap,babel,figma&theme=dark&perline=10" />
+&nbsp;
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/CanvasJS-1E88E5?style=for-the-badge&logoColor=white" />
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>&nbsp;📱 &nbsp;Previous Work · Mobile Development</b></summary><br/>
+
+<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,kotlin&theme=dark&perline=5" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </details>
 
@@ -256,7 +261,7 @@ const saurabh: FrontendDeveloper = {
 
 <div align="center">
 
-<a href="www.linkedin.com/in/saurabh-shrivastav-004050296">
+<a href="https://www.linkedin.com/in/saurabh-shrivastav-004050296">
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
